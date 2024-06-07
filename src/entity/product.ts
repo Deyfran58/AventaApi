@@ -13,10 +13,10 @@ export class Producto {
     cedula: string;
 
     @Column()
-    pellido1: string;
+    apellido1: string;
 
     @Column()
-    pellido2: string;
+    apellido2: string;
 
     @Column()
     fechaNacimiento: Date;
